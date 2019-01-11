@@ -6,8 +6,8 @@ function start_moniting()
     echo "start morniting folder......"
     fswatch -1 /Users/gxk/toy/oss
 
-    # 5秒后执行同步
-    sleep 5
+    # 10 秒后执行同步
+    sleep 10
     sync_files
 }
 
