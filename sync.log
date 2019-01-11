@@ -5,3 +5,8 @@ start sync_files
 To github.com:guxingke/oss.git
    5c92563..c763315  master -> master
 start sync_files
+[master 73db80f] .
+ 1 file changed, 6 insertions(+)
+To github.com:guxingke/oss.git
+   c763315..73db80f  master -> master
+start sync_files
